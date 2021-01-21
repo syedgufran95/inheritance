@@ -6,6 +6,7 @@ class Parent:
 class Child1(Parent):
       def func2(self):
           print("This function is in child 1.")
+          print("Thsi is done by ayaz")
  
 # Derivied class2
 class Child2(Parent):
